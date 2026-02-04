@@ -1,0 +1,1 @@
+https://github.com/yousefkotp/MAGIC-Gamma-Telescope-Classification/blob/main/notebook.ipynb
